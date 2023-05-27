@@ -15,4 +15,4 @@ A basic JavaScript Calculator
 
 `git clone git@github.com:plushexe351/BigBlackCalculator.git`
 
-` git clone https://github.com/plushexe351/BigBlackCalculator.git`
+`git clone https://github.com/plushexe351/BigBlackCalculator.git`
