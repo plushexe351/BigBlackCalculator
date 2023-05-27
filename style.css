@@ -73,12 +73,11 @@ body {
   height: 100%;
   outline: none;
 }
-.nav-links:hover > * > * {
+.nav-links:hover > * {
   color: var(--text);
 }
-.nav-links a:hover > * {
+.nav-links a:hover {
   color: white;
-  scale: 1.1;
 }
 .letter {
   display: flex;
@@ -86,54 +85,7 @@ body {
 span {
   transition: 0.3s ease;
 }
-/* home link  */
-.nav-links #home:hover > span:nth-child(1) {
-  transform: translate(-12px, 12px) rotate(20deg);
-}
-.nav-links #home:hover > span:nth-child(2) {
-  transform: translate(-6px, -6px) rotate(20deg);
-}
-.nav-links #home:hover > span:nth-child(3) {
-  transform: translate(6px, 6px) rotate(-10deg);
-}
-.nav-links #home:hover > span:nth-child(4) {
-  transform: translate(12px, -7px) rotate(-20deg);
-}
-/* about link */
-.nav-links .about:hover > span:nth-child(1) {
-  transform: translate(-12px, -12px) rotate(20deg);
-}
-.nav-links .about:hover > span:nth-child(2) {
-  transform: translate(0px, 6px) rotate(20deg);
-}
-.nav-links .about:hover > span:nth-child(3) {
-  transform: translate(6px, -10px) rotate(20deg);
-}
-.nav-links .about:hover > span:nth-child(4) {
-  transform: translate(15px, 12px) rotate(-10deg);
-}
-.nav-links .about:hover > span:nth-child(5) {
-  transform: translate(20px, -10px) rotate(-20deg);
-}
-/* contact link  */
-.nav-links .source:hover > span:nth-child(1) {
-  transform: translate(-12px, 0px) rotate(20deg);
-}
-.nav-links .source:hover > span:nth-child(2) {
-  transform: translate(-6px, 6px) rotate(20deg);
-}
-.nav-links #contact:hover > span:nth-child(3) {
-  transform: translate(0px, -6px) rotate(20deg);
-}
-.nav-links .source:hover > span:nth-child(4) {
-  transform: translate(6px, 12px) rotate(-10deg);
-}
-.nav-links .source:hover > span:nth-child(5) {
-  transform: translate(10px, -3px) rotate(-20deg);
-}
-.nav-links .source:hover > span:nth-child(6) {
-  transform: translate(15px, 10px) rotate(-20deg);
-}
+
 .button_row:first-child button:nth-child(1),
 .button_row:first-child button:nth-child(2),
 .button_row:first-child button:nth-child(3) {
