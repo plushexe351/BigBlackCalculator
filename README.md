@@ -2,7 +2,7 @@
 
 A basic JavaScript Calculator
 
-# Preview
+## Preview
 
 [Live Preview](https://github.com/plushexe351/BigBlackCalculator.git)
 
