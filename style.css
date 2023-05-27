@@ -162,9 +162,11 @@ button:last-child:hover {
   gap: 10px;
   margin-top: 20px;
 }
-.zero {
+.equals,
+.clearAll {
   flex: 2 2 3%;
 }
+
 button {
   min-height: 60px;
   border-radius: 10px;
@@ -241,5 +243,8 @@ footer {
   button {
     min-width: 50px;
     min-height: 50px;
+  }
+  #aboutSection h1 {
+    font-size: 40px;
   }
 }
