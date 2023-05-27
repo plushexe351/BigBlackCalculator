@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/digital-7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "calc_ptyp"
+	}
+}
