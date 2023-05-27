@@ -4,7 +4,7 @@ A basic JavaScript Calculator
 
 ## Preview
 
-[Live Preview](https://github.com/plushexe351/BigBlackCalculator.git)
+[Live Preview](https://plushexe351.github.io/BigBlackCalculator/)
 
 ## Key Features
 
